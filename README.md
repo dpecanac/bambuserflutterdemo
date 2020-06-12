@@ -1,4 +1,4 @@
-# babooser
+# bambuser
 
 Bambooser demo
 

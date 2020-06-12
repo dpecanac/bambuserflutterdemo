@@ -1,4 +1,4 @@
-import 'package:babooser/cameraBrowser.dart';
+import 'package:bambuser/cameraBrowser.dart';
 import 'package:flutter/material.dart';
 
 void main() {
